@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = raniabtkt@gmail.com
+	name = Rania BOUTEKRABET
